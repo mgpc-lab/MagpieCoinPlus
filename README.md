@@ -1,0 +1,2 @@
+# MagpieCoinPlus
+MagpieCoinPlus: Additional functions
